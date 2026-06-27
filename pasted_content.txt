@@ -1,0 +1,221 @@
+Create a modern, premium, fully responsive personal portfolio website for a senior Medical Doctor and Clinical Director named "Dr. Runyambo Eric".
+
+TECHNOLOGIES:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Single page application
+- Mobile-first responsive design
+- Professional animations
+- No frameworks
+
+DESIGN STYLE:
+- Premium healthcare executive portfolio
+- Modern hospital/medical theme
+- Clean and elegant layout
+- White, navy blue, teal, and light gray color palette
+- Professional typography
+- Smooth scrolling
+- Glassmorphism effects where appropriate
+- Animated statistics counters
+- Timeline animations
+- Scroll reveal animations
+- Dark mode toggle
+- Professional medical icons
+
+HEADER/NAVIGATION:
+- Fixed navigation bar
+- Logo: "Dr. Eric"
+- Menu items:
+  Home
+  About
+  Experience
+  Skills
+  Education
+  Training
+  References
+  Contact
+
+HERO SECTION:
+Display a professional medical executive profile layout with:
+Name:
+Dr. Runyambo Eric
+
+Title:
+General Director | Clinical Director | Medical Doctor
+
+Short Introduction:
+Medical Doctor with over 8 years of clinical and leadership experience across emergency medicine, internal medicine, intensive care, pediatrics, neonatology, and humanitarian healthcare operations.
+
+Add animated statistics:
+- 8+ Years Experience
+- 5+ Leadership Positions
+- 3 Countries Served
+- 1000+ Patients Managed
+
+Include:
+- Download CV button
+- Contact button
+
+ABOUT SECTION:
+Title:
+Professional Summary
+
+Content:
+Medical Doctor with over 8 years of clinical and leadership experience across emergency medicine, internal medicine/ICU, pediatrics, neonatology, and humanitarian field operations. Former Medical Director of a Level 1 clinic for the Rwandan Formed Police Unit (MINUSCA) in Kaga-Bandoro, where he coordinated multidisciplinary teams, oversaw clinic operations, and served as the mission’s COVID-19 focal point. Provided comprehensive medical care to UN personnel, humanitarian workers, local staff, and internally displaced persons. Previously led Emergency, Internal Medicine/ICU, and Pediatrics services at Kibogora Hospital in Rwanda, with a strong focus on quality care, team leadership, and service delivery in resource-limited settings. Currently overseeing daily clinical and administrative operations to ensure efficient, safe, and high-quality patient care at Polyclinic la Medical Huye.
+
+EXPERIENCE SECTION:
+Create a professional vertical timeline.
+
+1. General Director
+Polyclinic la Medical Huye
+July 2025 – Present
+Huye, Rwanda
+
+2. Medical Director
+UNAMIS
+March 2024 – April 2025
+Juba, South Sudan
+
+3. General Director
+Saint Moise
+January 2023 – January 2024
+Kigali, Rwanda
+
+4. Medical Doctor
+Kacyiru Hospital
+May 2021 – January 2023
+Kigali, Rwanda
+
+5. Medical Director
+MINUSCA, Kaga-Bandoro
+December 2019 – April 2021
+
+Responsibilities:
+- Supervised and coordinated healthcare staff activities
+- Provided medical care to United Nations personnel
+- Supported humanitarian workers and local staff
+- Assisted internally displaced persons
+- Served as COVID-19 focal point
+
+6. Head of Pediatrics and Neonatology Department
+Kibogora Hospital
+March 2019 – December 2019
+
+7. Head of Internal Medicine and ICU
+Kibogora Hospital
+November 2018 – March 2019
+
+8. Head of Emergency Medical Services
+Kibogora Hospital
+July 2017 – November 2018
+
+9. Attending Physician
+Kibogora Hospital
+2017 – 2019
+
+SKILLS SECTION:
+Create modern skill cards with icons.
+
+Skills:
+- Clinical Leadership
+- Team Supervision
+- Emergency Medicine
+- Internal Medicine
+- Intensive Care Unit Management
+- Pediatrics
+- Neonatology
+- Evidence-Based Diagnosis
+- Medical Administration
+- Electronic Medical Records
+- Digital Health Tools
+- Critical Thinking
+- Problem Solving
+- Communication
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+
+EDUCATION SECTION:
+Create elegant education cards.
+
+1. Master of Theology in Christian Ethics and Leadership
+Protestant University of Rwanda
+November 2025 – Current
+
+2. Medicine Degree
+Université Évangélique en Afrique (UEA)
+2011 – 2015
+
+3. Bachelor’s Degree in Biomedical Sciences
+Université Évangélique en Afrique (UEA)
+2009 – 2011
+
+4. A2 Certificate, Mathematics and Physics
+2002 – 2008
+
+5. Primary School Certificate
+1996 – 2001
+
+TRAINING SECTION:
+Create a professional certifications section.
+
+1. Initial Training of Medical Staff Trainers on Stress and Psychological Trauma Management, Psychiatric Disorders, and Psychosocial Dimensions of COVID-19
+MINUSCA Headquarters, Bangui
+19–27 October 2020
+
+2. Rwanda Essential Surgery Training
+27–29 June 2018
+
+3. Management of Alcohol Abuse and Drug-Related Disorders
+18–22 February 2019
+
+LANGUAGES SECTION:
+Display animated progress bars.
+
+- Kinyarwanda: Excellent
+- English: Upper Intermediate
+- Swahili: Upper Intermediate
+
+REFERENCES SECTION:
+Professional reference cards.
+
+1. Renner M. L. Onana
+Head of Office
+MINUSCA Kagabandoro
+
+2. CSP Antoine Munyampundu
+Commander of RWAFPU2
+MINUSCA
+
+3. CIP Joseph Susurutsa
+Head of Operations
+RWAFPU2 MINUSCA
+
+CONTACT SECTION:
+Display:
+Name: Dr. Runyambo Eric
+Profession: General Director | Medical Doctor
+
+Include:
+- Email icon
+- Phone icon
+- LinkedIn icon
+- WhatsApp icon
+
+FOOTER:
+Display:
+© 2026 Dr. Runyambo Eric Portfolio
+General Director | Medical Doctor
+
+ADDITIONAL REQUIREMENTS:
+- Fully responsive for mobile, tablet, and desktop
+- Professional healthcare executive appearance
+- Smooth animations
+- SEO optimized
+- Accessibility optimized
+- Clean code structure
+- Separate HTML, CSS, and JavaScript files
+- Ready for deployment on GitHub Pages
+- Use placeholder profile image that can easily be replaced later
+- Make it look like a world-class medical executive portfolio suitable for United Nations, humanitarian missions, hospital leadership, and international healthcare organizations.
